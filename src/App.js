@@ -17,7 +17,7 @@ function App() {
       <Score/>
       <Game/>
       <div className='jump'>
-      <button  onClick={()=>fly()}>Click here</button>
+      <button  onClick={()=>fly()}>Click here to Jump</button>
       </div>
     </div>
   );
