@@ -94,7 +94,7 @@ function Game() {
         fly();
       }
     };
-    document.addEventListener("touchstart", handleKeyPress);
+    document.addEventListener("keypress", handleKeyPress);
 
   }, []);
 
