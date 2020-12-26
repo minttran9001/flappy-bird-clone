@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/flappy-bird-clone/static/css/main.8c51b9cb.chunk.css",
-    "main.js": "/flappy-bird-clone/static/js/main.2aa9ee32.chunk.js",
-    "main.js.map": "/flappy-bird-clone/static/js/main.2aa9ee32.chunk.js.map",
+    "main.js": "/flappy-bird-clone/static/js/main.3f9c37fa.chunk.js",
+    "main.js.map": "/flappy-bird-clone/static/js/main.3f9c37fa.chunk.js.map",
     "runtime-main.js": "/flappy-bird-clone/static/js/runtime-main.db1c969f.js",
     "runtime-main.js.map": "/flappy-bird-clone/static/js/runtime-main.db1c969f.js.map",
     "static/js/2.70813144.chunk.js": "/flappy-bird-clone/static/js/2.70813144.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.db1c969f.js",
     "static/js/2.70813144.chunk.js",
     "static/css/main.8c51b9cb.chunk.css",
-    "static/js/main.2aa9ee32.chunk.js"
+    "static/js/main.3f9c37fa.chunk.js"
   ]
 }
