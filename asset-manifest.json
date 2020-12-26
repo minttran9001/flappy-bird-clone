@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/flappy-bird-clone/static/css/main.8dee1fc1.chunk.css",
-    "main.js": "/flappy-bird-clone/static/js/main.7fd659e9.chunk.js",
-    "main.js.map": "/flappy-bird-clone/static/js/main.7fd659e9.chunk.js.map",
+    "main.css": "/flappy-bird-clone/static/css/main.8c51b9cb.chunk.css",
+    "main.js": "/flappy-bird-clone/static/js/main.feaa5d5d.chunk.js",
+    "main.js.map": "/flappy-bird-clone/static/js/main.feaa5d5d.chunk.js.map",
     "runtime-main.js": "/flappy-bird-clone/static/js/runtime-main.db1c969f.js",
     "runtime-main.js.map": "/flappy-bird-clone/static/js/runtime-main.db1c969f.js.map",
     "static/js/2.70813144.chunk.js": "/flappy-bird-clone/static/js/2.70813144.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.a055d01f.chunk.js": "/flappy-bird-clone/static/js/3.a055d01f.chunk.js",
     "static/js/3.a055d01f.chunk.js.map": "/flappy-bird-clone/static/js/3.a055d01f.chunk.js.map",
     "index.html": "/flappy-bird-clone/index.html",
-    "static/css/main.8dee1fc1.chunk.css.map": "/flappy-bird-clone/static/css/main.8dee1fc1.chunk.css.map",
+    "static/css/main.8c51b9cb.chunk.css.map": "/flappy-bird-clone/static/css/main.8c51b9cb.chunk.css.map",
     "static/js/2.70813144.chunk.js.LICENSE.txt": "/flappy-bird-clone/static/js/2.70813144.chunk.js.LICENSE.txt",
     "static/media/Overdose - CIKI.61de6442.mp3": "/flappy-bird-clone/static/media/Overdose - CIKI.61de6442.mp3",
     "static/media/fg.1aff9f5e.png": "/flappy-bird-clone/static/media/fg.1aff9f5e.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.db1c969f.js",
     "static/js/2.70813144.chunk.js",
-    "static/css/main.8dee1fc1.chunk.css",
-    "static/js/main.7fd659e9.chunk.js"
+    "static/css/main.8c51b9cb.chunk.css",
+    "static/js/main.feaa5d5d.chunk.js"
   ]
 }
