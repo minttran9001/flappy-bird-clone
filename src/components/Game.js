@@ -19,11 +19,7 @@ function Game() {
   const pipes = useSelector((state) => state.pipe.pipes);
   const x = useSelector((state) => state.pipe.x);
   const [challenge, setChallenge] = useState();
-  const musicBg = new Audio(music);
-  musicBg.volume = 0.5;
-  useEffect(() => {
-    musicBg.play();
-  }, []);
+
   if (status === "game-over") {
     clearInterval(gameLoop);
     clearInterval(pipeGenerator);
