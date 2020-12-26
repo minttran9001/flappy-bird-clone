@@ -89,7 +89,6 @@ function Game() {
   }, [x]);
   useEffect(() => {
     const handleKeyPress = (e) => {
-      console.log(e.touches)
       if (e.keyCode === 32) {
         fly();
       }
