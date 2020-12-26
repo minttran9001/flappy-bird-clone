@@ -9,7 +9,7 @@ export default (state = initialState, { type } = {}) => {
       return { ...state, y: state.y + 30,r: 0 };
     case "FLY":
       return { ...state, y: state.y - 50,r:-20 };
-    case "BIRD_END":
+    case "GAME_OVER":
       return initialState
     default:
       return state;

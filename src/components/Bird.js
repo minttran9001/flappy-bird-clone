@@ -1,5 +1,5 @@
 import React from 'react'
-import BirdImg from '../images/bird.png'
+import BirdImg from '../images/Asset 3.png'
 import { useSelector } from "react-redux";
 export default function Bird()
 {
@@ -14,6 +14,8 @@ export default function Bird()
             transition:'transform 200ms ,top 200ms',
             transform:`rotate(${r}deg)`,
             background:`url(${BirdImg})`,
+            backgroundRepeat:'no-repeat',
+            backgroundSize:'38px',
         }}>
           
         </div>

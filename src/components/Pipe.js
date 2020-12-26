@@ -23,7 +23,7 @@ export default function Pipe() {
           <div
             style={{
               position: "absolute",
-              top: topHeight + 100,
+              top: topHeight + 80,
               transition:"left 200ms",
               left: x + i * 200,
               width: 50,

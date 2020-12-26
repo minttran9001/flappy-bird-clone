@@ -1,10 +1,9 @@
 
-export default (state={},{type}={})=>{
+export default (state={status:'game-over'},{type}={})=>{
     switch(type){
         case "START":
             return {...state,status:'playing'};
-        case "GAME_END":
-            console.log('stop')
+        case "GAME_OVER":
             return {...state,status:'game-over'}
         default:
             return state
