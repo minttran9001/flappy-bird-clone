@@ -5,7 +5,33 @@
   margin: auto;
   display: flex;
   height: 100vh;
+  position: relative;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+.jump{
+  height: 105px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:288px;
+  margin: auto;
+  bottom: 0;
+  text-align: center;
+  
+}
+.jump button{
+  padding: 20px;
+  width: 100%;
+  font-size: 25px;
+  letter-spacing: 2px;
+  height: 100%;
+  z-index: 1;
+  border: none;
+  outline: none;
+  color: #222;
+  background: #B3B0C1;
+  padding:10px;
 }

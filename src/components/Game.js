@@ -89,14 +89,17 @@ function Game() {
   }, [x]);
   useEffect(() => {
     const handleKeyPress = (e) => {
+      console.log(e.touches)
       if (e.keyCode === 32) {
         fly();
       }
     };
-    document.addEventListener("keypress", handleKeyPress);
+    document.addEventListener("touchstart", handleKeyPress);
+
   }, []);
 
   return (
+    <>
     <div
       className="game"
       style={{
@@ -107,14 +110,16 @@ function Game() {
       }}
     >
       {status != "playing" ? (
-        <button onClick={() => start()}>Play</button>
+        <button className='play' onClick={() => start()}>Play</button>
       ) : (
         <></>
       )}
       <Bird />
       <Pipe />
       <Foreground />
+     
     </div>
+    </>
   );
 }
 
