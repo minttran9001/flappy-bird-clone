@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/flappy-bird-clone/static/css/main.8dee1fc1.chunk.css",
+    "main.js": "/flappy-bird-clone/static/js/main.7fd659e9.chunk.js",
+    "main.js.map": "/flappy-bird-clone/static/js/main.7fd659e9.chunk.js.map",
+    "runtime-main.js": "/flappy-bird-clone/static/js/runtime-main.db1c969f.js",
+    "runtime-main.js.map": "/flappy-bird-clone/static/js/runtime-main.db1c969f.js.map",
+    "static/js/2.70813144.chunk.js": "/flappy-bird-clone/static/js/2.70813144.chunk.js",
+    "static/js/2.70813144.chunk.js.map": "/flappy-bird-clone/static/js/2.70813144.chunk.js.map",
+    "static/js/3.a055d01f.chunk.js": "/flappy-bird-clone/static/js/3.a055d01f.chunk.js",
+    "static/js/3.a055d01f.chunk.js.map": "/flappy-bird-clone/static/js/3.a055d01f.chunk.js.map",
+    "index.html": "/flappy-bird-clone/index.html",
+    "static/css/main.8dee1fc1.chunk.css.map": "/flappy-bird-clone/static/css/main.8dee1fc1.chunk.css.map",
+    "static/js/2.70813144.chunk.js.LICENSE.txt": "/flappy-bird-clone/static/js/2.70813144.chunk.js.LICENSE.txt",
+    "static/media/Overdose - CIKI.61de6442.mp3": "/flappy-bird-clone/static/media/Overdose - CIKI.61de6442.mp3",
+    "static/media/fg.1aff9f5e.png": "/flappy-bird-clone/static/media/fg.1aff9f5e.png",
+    "static/media/mixkit-cartoon-character-sneeze-2209.550be308.wav": "/flappy-bird-clone/static/media/mixkit-cartoon-character-sneeze-2209.550be308.wav",
+    "static/media/mixkit-laughing-cartoon-creature-414.670b2da9.wav": "/flappy-bird-clone/static/media/mixkit-laughing-cartoon-creature-414.670b2da9.wav",
+    "static/media/pipe-bottom.d354aa87.png": "/flappy-bird-clone/static/media/pipe-bottom.d354aa87.png",
+    "static/media/pipe-top.3e4cf42d.png": "/flappy-bird-clone/static/media/pipe-top.3e4cf42d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db1c969f.js",
+    "static/js/2.70813144.chunk.js",
+    "static/css/main.8dee1fc1.chunk.css",
+    "static/js/main.7fd659e9.chunk.js"
+  ]
+}
